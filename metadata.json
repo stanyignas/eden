@@ -1,0 +1,7 @@
+{
+  "name": "Eden",
+  "description": "Voice-controlled AI smart home hero and control system featuring an ambient fluid core centerpiece, spatial room shelf, and real-time voice controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
